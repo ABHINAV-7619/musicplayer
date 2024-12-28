@@ -19,8 +19,8 @@ new Vue({
         },
         {
           name: "Saaiyaan 🔫 ",
-          artist: "Saayaan",
-          cover: "img/saaiyaan.jpeg",
+          artist: "Saaiyaan",
+          cover: "img/Saaiyaan.jpeg",
           source: "mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=IHNzOHi8sJs&ab_channel=BLACKPINK",
           favorited: true
